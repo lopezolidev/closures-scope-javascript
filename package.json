@@ -1,0 +1,20 @@
+{
+  "name": "closures-scope-javascript",
+  "version": "1.0.0",
+  "description": "Repo dedicated to clarifying the use of different scopes and closure in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioiscoding/closures-scope-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioiscoding/closures-scope-javascript/issues"
+  },
+  "homepage": "https://github.com/sergioiscoding/closures-scope-javascript#readme"
+}
